@@ -1,4 +1,6 @@
 def using_include(array, element)
+  ["First","Last"]
+  array.include?("First")
 
 end
 
